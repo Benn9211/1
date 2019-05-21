@@ -1,2 +1,2 @@
-# Links Project on css
-* How to create diffrent layouts in css without changing anything in html?
+# Navbar Layout
+* How to create navbar using css only?
